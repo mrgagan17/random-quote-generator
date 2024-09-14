@@ -22,3 +22,6 @@ How to Use
    git clone https://github.com/mrgagan17/random-quote-generator.git
 
 2. Open index.html in your browser to view the app
+
+
+ (image/result.jpg)
