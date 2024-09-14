@@ -23,4 +23,5 @@ How to Use
 
 2. Open index.html in your browser to view the app
 
+Result:
  ![Result](image/result.jpg)
